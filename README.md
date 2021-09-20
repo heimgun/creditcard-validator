@@ -1,3 +1,6 @@
+This is an application designed to verify as much as possible without having to send information to a server. Very much inspired by [Aphrxs](https://github.com/aphrx) [repo](https://github.com/aphrx/credit-card-validation) and [tutorial](https://www.youtube.com/watch?v=YxYBl9e-TF4). 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
