@@ -1,0 +1,6 @@
+{
+  "short_name": "Credit Card Validator",
+  "name": "App for validating credit cards without calling a server",
+  "start_url": ".",
+  "background_color": "#ffffff"
+}
